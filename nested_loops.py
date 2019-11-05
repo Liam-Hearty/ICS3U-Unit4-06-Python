@@ -2,7 +2,7 @@
 
 # Created by: Liam Hearty
 # Created on: September 2019
-# This program adds only positive numbers.
+# This program uses a loop inside another loop.
 
 
 def main():
